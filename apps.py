@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class TravelloConfig(AppConfig):
-    name = 'travello'
+class CalcConfig(AppConfig):
+    name = 'calc'
